@@ -34,7 +34,7 @@ bash <(curl -L https://t.ly/tHxh)
 ### rai-settan
 
 
-## termux set up
+## Termux set up
     
 GET QR
 $ apt update
@@ -51,12 +51,18 @@ $ node qr.js
 SETUP
 
 $ git clone https://github.com/rai-settan
+
 $ cd rai-settan
+
 $ chmod +x *
+
 $ npm i
+
 $ node qr.js
+
    // scan the qr using whatsapp web on your phone
 $ node bot.js
+
 
 ### ⚠️ Warning! 
 ```
