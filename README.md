@@ -42,15 +42,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
-  <div align="center">
-    
-  [![Pgrai](<img src=Pgrai
- https://github.com/rai-settan |  
-----|
-[rai-settan](https://github.com/rai-settan)  |
-Base, Bug Fixes, Modules | 
-  
+## termux set up
     
 GET QR
 $ apt update
@@ -64,5 +56,14 @@ $ npm install chalk
 $ node qr.js
 
 
+SETUP
+
+$ git clone https://github.com/rai-settan
+$ cd rai-settan
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
 
 
