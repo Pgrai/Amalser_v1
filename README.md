@@ -52,6 +52,17 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Base, Bug Fixes, Modules | 
   
     
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone 
+$ cd rai-settan
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+
 
 
 
