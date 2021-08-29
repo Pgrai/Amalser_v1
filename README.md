@@ -34,14 +34,6 @@ bash <(curl -L https://t.ly/tHxh)
 ### rai-settan
 
 
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
 ## termux set up
     
 GET QR
@@ -66,4 +58,10 @@ $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 
-
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
