@@ -1,7 +1,7 @@
 /* Copyright (C) 2020 Yusuf Usnta.
 RECODDED BY AFNANPPLK
 Plk  
-*/
+
 
 const fs = require("fs");
 const path = require("path");
